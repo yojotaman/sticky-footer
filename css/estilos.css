@@ -1,0 +1,26 @@
+body {
+	background: lightgray;
+	min-height: 100vh;
+	margin: 0;
+}
+h2 {
+	margin: 0;
+}
+p {
+	margin: 0;
+}
+
+header {
+	/*height: 50px;*/
+	background: #273b47;
+}
+
+section {
+	background: #fcfcd2;
+}
+
+footer {
+	background: #7fc719;
+	/*height: 100px;*/
+	
+}
